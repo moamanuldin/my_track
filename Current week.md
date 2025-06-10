@@ -31,7 +31,7 @@
     ☐ 1 with a calculated field
 
 ───────────────
-✅ FRIDAY – June 13
+✅ WEDNESDAY – June 11
   🔹 Python
     ☐ Add a feature to save each transaction to a log file (CSV or text)
     ☐ Review loops, if-else, and functions
