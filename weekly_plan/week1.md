@@ -4,7 +4,7 @@
 ⏱️ Daily Study Time: 2 hours (1 hr Python, 1 hr SQL)
 
 ───────────────
-✅ MONDAY – June 9
+✅ MONDAY
   🔹 Python
     ☐ Build mini billing system with:
     ☐ User input
@@ -19,7 +19,7 @@
     ☐ Review: Basic table design & data types
 
 ───────────────
-✅ TUESDAY – June 10
+✅ TUESDAY
   🔹 Python
     ☐ Refactor billing system using functions
     ☐ Add a CLI menu to let user select actions (e.g., “Start new bill”, “Exit”)
@@ -31,7 +31,7 @@
     ☐ 1 with a calculated field
 
 ───────────────
-✅ WEDNESDAY – June 11
+✅ WEDNESDAY
   🔹 Python
     ☐ Add a feature to save each transaction to a log file (CSV or text)
     ☐ Review loops, if-else, and functions
