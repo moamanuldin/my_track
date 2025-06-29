@@ -24,7 +24,7 @@ Transition into a **bioinformatician** role with strong foundations in **data sc
 * **Daily:** Short focused tasks
 * **Weekly:** Medium-range learning goals
 * **Quarterly:** Review checkpoints every 3 months
-* **Current Focus:** Python, SQL, and PostgreSQL fundamentals and projects
+* **Current Focus:** Python, SQL, German, and PostgreSQL fundamentals and projects
 * **Power BI:** Paused temporarily for one month (as of June 2025)
 
 ---
