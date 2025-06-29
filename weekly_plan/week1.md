@@ -4,35 +4,35 @@
 ⏱️ Daily Study Time: 2 hours (1 hr Python, 1 hr SQL)
 
 ───────────────
-✅ MONDAY
-  🔹 Python
+⏱️ MONDAY
+  🔹 Python ✅
     ☐ Build mini billing system with:
     ☐ User input
     ☐ Conditions (if-else)
     ☐ Loops
     ☐ Tax + subtotal + total calculation
   
-  🔹 SQL / PostgreSQL
+  🔹 SQL / PostgreSQL ✅
     ☐ Create a second table (e.g., orders)
     ☐ Insert sample records
     ☐ Write nested SELECTs to simulate a JOIN
     ☐ Review: Basic table design & data types
 
 ───────────────
-✅ TUESDAY
-  🔹 Python
+⏱️ TUESDAY
+  🔹 Python ✅
     ☐ Refactor billing system using functions
     ☐ Add a CLI menu to let user select actions (e.g., “Start new bill”, “Exit”)
 
-  🔹 SQL / PostgreSQL
+  🔹 SQL / PostgreSQL ✅
     ☐ Write 3 practical queries using both tables:
     ☐ 1 with a WHERE filter
     ☐ 1 with ORDER BY
     ☐ 1 with a calculated field
 
 ───────────────
-✅ WEDNESDAY
-  🔹 Python
+⏱️ WEDNESDAY
+  🔹 Python 
     ☐ Add a feature to save each transaction to a log file (CSV or text)
     ☐ Review loops, if-else, and functions
   
