@@ -6,6 +6,7 @@
 ⏱️ Daily Study Time: 2 hours (1 hr Python, 1 hr SQL)
 
 ───────────────
+
 ⏱️ MONDAY
   🔹 Python ✅
     ☐ Build mini billing system with:
@@ -21,6 +22,7 @@
     ☐ Review: Basic table design & data types
 
 ───────────────
+
 ⏱️ TUESDAY
   🔹 Python ✅
     ☐ Refactor billing system using functions
@@ -33,6 +35,7 @@
     ☐ 1 with a calculated field
 
 ───────────────
+
 ⏱️ WEDNESDAY
   🔹 Python ✅
     ☐ Add a feature to save each transaction to a log file (CSV or text)
