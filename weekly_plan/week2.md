@@ -5,6 +5,7 @@ We’re continuing with Python + SQL/PostgreSQL, skipping Power BI (as planned),
 ⏱ Daily Time: 2 hours (main focus) + 15–30 min German
 
 ━━━━━━━━━━━━━━━━━━━━━━━
+
 📘 WEEK 2 OVERVIEW
 Focus:
 
