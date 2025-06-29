@@ -18,6 +18,7 @@ PostgreSQL: Multi-table queries
 German: 15–30 min/day https://youtube.com/playlist?list=PLb4LszRKRuSHBbEHGYi8GJHaBAxwYhSnc&si=ZzdK_t6m1NsVy6Uw
 
 ━━━━━━━━━━━━━━━━━━━━━━━
+
 📅 SUNDAY – June 29
 🟢 Python (1 hr)
 ☐ Learn: Lists, loops with lists
@@ -31,6 +32,7 @@ German: 15–30 min/day https://youtube.com/playlist?list=PLb4LszRKRuSHBbEHGYi8G
 ☐ Activity: Youtube Playlist 
 
 ━━━━━━━━━━━━━━━━━━━━━━━
+
 📅 MONDAY – July 1
 🟢 Python (1 hr)
 ☐ Learn: Dictionaries (key-value pairs), nested structures
@@ -47,6 +49,7 @@ German: 15–30 min/day https://youtube.com/playlist?list=PLb4LszRKRuSHBbEHGYi8G
 ☐ Activity: https://youtube.com/playlist?list=PLb4LszRKRuSHBbEHGYi8GJHaBAxwYhSnc&si=ZzdK_t6m1NsVy6Uw
 
 ━━━━━━━━━━━━━━━━━━━━━━━
+
 📅 THURSDAY – July 4
 🟢 Python (1 hr)
 ☐ Build: A structured transaction log system (use dictionaries, lists)
@@ -60,6 +63,7 @@ German: 15–30 min/day https://youtube.com/playlist?list=PLb4LszRKRuSHBbEHGYi8G
 ☐ Activity: https://youtube.com/playlist?list=PLb4LszRKRuSHBbEHGYi8GJHaBAxwYhSnc&si=ZzdK_t6m1NsVy6Uw
 
 ━━━━━━━━━━━━━━━━━━━━━━━
+
 📅 FRIDAY – July 5
 🟢 Python (1 hr)
 ☐ Learn: File writing (with open, .write)
@@ -73,6 +77,7 @@ German: 15–30 min/day https://youtube.com/playlist?list=PLb4LszRKRuSHBbEHGYi8G
 ☐ Activity: https://youtube.com/playlist?list=PLb4LszRKRuSHBbEHGYi8GJHaBAxwYhSnc&si=ZzdK_t6m1NsVy6Uw
 
 ━━━━━━━━━━━━━━━━━━━━━━━
+
 📅 SATURDAY – July 6
 🟢 Python (1 hr)
 ☐ Project Day: Finalize your billing app (with menu, functions, log saving)
