@@ -1,3 +1,5 @@
+# Done
+
 🗓️ Weekly Plan – Week 1 (Continued)
 📆 Study Days: Thursday → Monday
 🛑 Days Off: Tuesday & Wednesday
@@ -32,11 +34,11 @@
 
 ───────────────
 ⏱️ WEDNESDAY
-  🔹 Python 
+  🔹 Python ✅
     ☐ Add a feature to save each transaction to a log file (CSV or text)
     ☐ Review loops, if-else, and functions
   
-  🔹 SQL / PostgreSQL
+  🔹 SQL / PostgreSQL ✅
     ☐ Learn INNER JOIN
     ☐ Perform an INNER JOIN between product and order tables
     ☐ Try: JOIN + ORDER BY for meaningful analytics
