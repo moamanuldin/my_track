@@ -20,11 +20,11 @@ German: 15–30 min/day https://youtube.com/playlist?list=PLb4LszRKRuSHBbEHGYi8G
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 📅 SUNDAY – June 29
-🟢 Python (1 hr)
+🟢 Python (1 hr) ✅
 ☐ Learn: Lists, loops with lists
 ☐ Task: List of products with prices → apply tax, discount logic
 
-🔵 SQL/PostgreSQL (1 hr)
+🔵 SQL/PostgreSQL (1 hr) ✅
 ☐ Learn: Basic INNER JOIN
 ☐ Task: JOIN orders and products tables → view full transactions with price details
 
@@ -33,13 +33,13 @@ German: 15–30 min/day https://youtube.com/playlist?list=PLb4LszRKRuSHBbEHGYi8G
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
-📅 MONDAY – July 1
-🟢 Python (1 hr)
+📅 MONDAY – June 30
+🟢 Python (1 hr) ✅
 ☐ Learn: Dictionaries (key-value pairs), nested structures
 ☐ Task: Convert your product list to a dictionary (e.g., name: price)
 ☐ Bonus: Use a loop to generate a total bill
 
-🔵 SQL/PostgreSQL (1 hr)
+🔵 SQL/PostgreSQL (1 hr) ✅
 ☐ Learn: GROUP BY, COUNT, SUM
 ☐ Task:
   • Total orders per product
@@ -50,7 +50,7 @@ German: 15–30 min/day https://youtube.com/playlist?list=PLb4LszRKRuSHBbEHGYi8G
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
-📅 THURSDAY – July 4
+📅 THURSDAY – July 3
 🟢 Python (1 hr)
 ☐ Build: A structured transaction log system (use dictionaries, lists)
 ☐ Refactor: Create functions to calculate subtotals, taxes
@@ -64,7 +64,7 @@ German: 15–30 min/day https://youtube.com/playlist?list=PLb4LszRKRuSHBbEHGYi8G
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
-📅 FRIDAY – July 5
+📅 FRIDAY – July 4
 🟢 Python (1 hr)
 ☐ Learn: File writing (with open, .write)
 ☐ Task: Log each billing transaction to a .txt or .csv file
@@ -78,7 +78,7 @@ German: 15–30 min/day https://youtube.com/playlist?list=PLb4LszRKRuSHBbEHGYi8G
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
-📅 SATURDAY – July 6
+📅 SATURDAY – July 5
 🟢 Python (1 hr)
 ☐ Project Day: Finalize your billing app (with menu, functions, log saving)
 ☐ Optional: Add error handling for invalid inputs
