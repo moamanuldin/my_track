@@ -15,7 +15,7 @@ SQL: JOINs, basic analysis (GROUP BY, COUNT, SUM)
 
 PostgreSQL: Multi-table queries
 
-German: 15–30 min/day https://youtube.com/playlist?list=PLb4LszRKRuSHBbEHGYi8GJHaBAxwYhSnc&si=ZzdK_t6m1NsVy6Uw
+German: 15–30 min/day https://youtube.com/playlist?list=PLb4LszRKRuSHBbEHGYi8GJHaBAxwYhSnc&si=ZzdK_t6m1NsVy6Uw 
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -29,11 +29,11 @@ German: 15–30 min/day https://youtube.com/playlist?list=PLb4LszRKRuSHBbEHGYi8G
 ☐ Task: JOIN orders and products tables → view full transactions with price details
 
 🇩🇪 German (15–30 min)
-☐ Activity: Youtube Playlist 
+☐ Activity: Youtube Playlist ✅
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
-📅 MONDAY – June 30
+📅 MONDAY
 🟢 Python (1 hr) ✅
 ☐ Learn: Dictionaries (key-value pairs), nested structures
 ☐ Task: Convert your product list to a dictionary (e.g., name: price)
@@ -50,12 +50,12 @@ German: 15–30 min/day https://youtube.com/playlist?list=PLb4LszRKRuSHBbEHGYi8G
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
-📅 THURSDAY – July 3
-🟢 Python (1 hr)
+📅 THURSDAY
+🟢 Python (1 hr) ✅
 ☐ Build: A structured transaction log system (use dictionaries, lists)
 ☐ Refactor: Create functions to calculate subtotals, taxes
 
-🔵 SQL/PostgreSQL (1 hr)
+🔵 SQL/PostgreSQL (1 hr) ✅
 ☐ JOIN + GROUP BY
 ☐ Task: Show total sales per customer by joining customers and orders tables
 
@@ -64,7 +64,7 @@ German: 15–30 min/day https://youtube.com/playlist?list=PLb4LszRKRuSHBbEHGYi8G
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
-📅 FRIDAY – July 4
+📅 FRIDAY
 🟢 Python (1 hr)
 ☐ Learn: File writing (with open, .write)
 ☐ Task: Log each billing transaction to a .txt or .csv file
@@ -78,7 +78,7 @@ German: 15–30 min/day https://youtube.com/playlist?list=PLb4LszRKRuSHBbEHGYi8G
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
-📅 SATURDAY – July 5
+📅 SATURDAY
 🟢 Python (1 hr)
 ☐ Project Day: Finalize your billing app (with menu, functions, log saving)
 ☐ Optional: Add error handling for invalid inputs
