@@ -65,11 +65,11 @@ German: 15–30 min/day https://youtube.com/playlist?list=PLb4LszRKRuSHBbEHGYi8G
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 📅 FRIDAY
-🟢 Python (1 hr)
+🟢 Python (1 hr) ✅
 ☐ Learn: File writing (with open, .write)
 ☐ Task: Log each billing transaction to a .txt or .csv file
 
-🔵 SQL/PostgreSQL (1 hr)
+🔵 SQL/PostgreSQL (1 hr) ✅
 ☐ Learn: Subqueries
 ☐ Task: Write a query to return products whose total sales exceed the average product revenue
 
