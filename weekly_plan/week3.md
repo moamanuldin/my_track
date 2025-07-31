@@ -3,6 +3,7 @@
 🎯 Focus: Python with file operations & error handling, intro to OOP; SQL subqueries, CASE statements, and practice reports.
 
 ━━━━━━━━━━━━━━━━━━━━━━━
+
 📅 SUNDAY – July 7
 🟢 Python (1 hr)
 ☐ Learn: Error handling (try-except)
@@ -13,6 +14,7 @@
 ☐ Task: Create a report with JOIN + SUM + ORDER BY (e.g., top 5 best-selling products)
 
 ━━━━━━━━━━━━━━━━━━━━━━━
+
 📅 MONDAY – July 8
 🟢 Python (1 hr)
 ☐ Learn: Writing and reading CSV files using the csv module
@@ -23,7 +25,9 @@
 ☐ Learn: CASE WHEN for conditional logic
 ☐ Task: Add a category to products (e.g., ‘expensive’, ‘budget’) based on price
 
+
 ━━━━━━━━━━━━━━━━━━━━━━━
+
 📅 THURSDAY – July 11
 🟢 Python (1 hr)
 ☐ Learn: Intro to Object-Oriented Programming (OOP)
@@ -35,6 +39,7 @@
 ☐ Task: Products with above-average revenue using a subquery
 
 ━━━━━━━━━━━━━━━━━━━━━━━
+
 📅 FRIDAY – July 12
 🟢 Python (1 hr)
 ☐ Add: Billing system using your Product class
@@ -45,6 +50,7 @@
 ☐ Bonus: Add filter for customers spending > threshold
 
 ━━━━━━━━━━━━━━━━━━━━━━━
+
 📅 SATURDAY – July 13
 🟢 Python (1 hr)
 ☐ Project Day: Finalize class-based billing app
