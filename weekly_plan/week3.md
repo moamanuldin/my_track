@@ -89,6 +89,3 @@
 3. Filters via the subquery (above-average revenue)
 4. Ranks with a window function
    —document each query’s purpose and sample output.
-
-
-This ensures each day clearly separates **what to learn** and a specific **task** for both Python and SQL. Let me know if you want resource links or example snippets!
