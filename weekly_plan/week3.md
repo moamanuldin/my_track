@@ -1,61 +1,94 @@
-📆 Week 3
-🕒 Daily Time: 2 hours (1 hr Python, 1 hr SQL/PostgreSQL)
-🎯 Focus: Python with file operations & error handling, intro to OOP; SQL subqueries, CASE statements, and practice reports.
+### Day 1
 
-━━━━━━━━━━━━━━━━━━━━━━━
+**Python Learn:**
 
-📅 SUNDAY – July 7
-🟢 Python (1 hr)
-☐ Learn: Error handling (try-except)
-☐ Task: Add input validation to your billing app (e.g., handle invalid quantities or item names)
+* Review `try`/`except` (specific exceptions, `else`/`finally`)
+* OOP basics: `class`, `__init__`
 
-🔵 SQL/PostgreSQL (1 hr)
-☐ Review: GROUP BY, JOINs
-☐ Task: Create a report with JOIN + SUM + ORDER BY (e.g., top 5 best-selling products)
+**Python Task:**
 
-━━━━━━━━━━━━━━━━━━━━━━━
+1. Wrap your billing-input logic in `try`/`except` to catch invalid entries.
+2. Define a `Product` class with attributes `name` and `price` and a method `taxed_price()`.
 
-📅 MONDAY – July 8
-🟢 Python (1 hr)
-☐ Learn: Writing and reading CSV files using the csv module
-☐ Task: Export sales data from your app into a structured CSV report
-☐ Bonus: Create a function to read the file and show past sales history
+**SQL Learn:**
 
-🔵 SQL/PostgreSQL (1 hr)
-☐ Learn: CASE WHEN for conditional logic
-☐ Task: Add a category to products (e.g., ‘expensive’, ‘budget’) based on price
+* INNER JOIN fundamentals (combining two tables)
+* Aggregation with `SUM()` and grouping with `GROUP BY`
+
+**SQL Task:**
+
+* Write a query that joins your `orders` and `products` tables to compute **total sales per product**.
+
+---
+
+### Day 2
+
+**Python Learn:**
+
+* Advanced error handling (catching multiple exception types, logging)
+* OOP: building a `Customer` class (attributes + methods)
+
+**Python Task:**
+
+1. Refactor billing script so every user action is wrapped in `try`/`except`, logging errors to a file.
+2. Instantiate two `Customer` objects and attach `Product` instances via a `Customer.add_order(product, qty)` method.
+
+**SQL Learn:**
+
+* Conditional logic with `CASE WHEN`
+* Counting and summing grouped by a conditional bucket
+
+**SQL Task:**
+
+* Add a `category` to each product using `CASE WHEN price > X THEN 'expensive' ELSE 'budget' END`, then **count products per category**.
+
+---
+
+### Day 3
+
+**Python Learn:**
+
+* Input validation in constructors (`raise ValueError`)
+* Error handling inside class methods
+
+**Python Task:**
+
+1. In `__init__` of both `Product` and `Customer`, validate inputs (e.g. ensure price > 0) and catch/report invalid data.
+2. Refactor billing app to drive entirely through these classes, guarding against invalid operations.
+
+**SQL Learn:**
+
+* Writing **subqueries** in `WHERE` clauses
+
+**SQL Task:**
+
+* Return products whose **total revenue** exceeds the average revenue, by using a subquery that computes the average in the `WHERE` filter.
+
+---
+
+### Day 4
+
+**Python Learn:** Robust file I/O with `with open` and catching `IOError`
+**Python Task:** Serialize/deserial­ize your `Customer` list to JSON or pickle, with `try`/`except` around reads/writes
+
+**SQL Learn:** Window functions (`ROW_NUMBER()`, `RANK()`)
+**SQL Task:** Rank products by descending revenue using a window function inside a CTE.
+
+---
+
+### Day 5
+
+**Python Learn:** End-to-end exception safety in user I/O, file ops, and logic
+**Python Task:** Finalize your class-based billing system, logging **all** exceptions with timestamps
+
+**SQL Learn:** Complex reporting combining JOIN, `CASE`, subquery, and window function
+**SQL Task:** Build a comprehensive SQL report that:
+
+1. Joins `orders` & `products`
+2. Categorizes with `CASE`
+3. Filters via the subquery (above-average revenue)
+4. Ranks with a window function
+   —document each query’s purpose and sample output.
 
 
-━━━━━━━━━━━━━━━━━━━━━━━
-
-📅 THURSDAY – July 11
-🟢 Python (1 hr)
-☐ Learn: Intro to Object-Oriented Programming (OOP)
-☐ Concepts: class, **init**, attributes, methods
-☐ Task: Create a Product class with name, price, and tax methods
-
-🔵 SQL/PostgreSQL (1 hr)
-☐ Learn: Subqueries (in SELECT and WHERE)
-☐ Task: Products with above-average revenue using a subquery
-
-━━━━━━━━━━━━━━━━━━━━━━━
-
-📅 FRIDAY – July 12
-🟢 Python (1 hr)
-☐ Add: Billing system using your Product class
-☐ Optional: Add a Customer class to expand your app
-
-🔵 SQL/PostgreSQL (1 hr)
-☐ Task: Customer spending report using JOINs and GROUP BY
-☐ Bonus: Add filter for customers spending > threshold
-
-━━━━━━━━━━━━━━━━━━━━━━━
-
-📅 SATURDAY – July 13
-🟢 Python (1 hr)
-☐ Project Day: Finalize class-based billing app
-☐ Refactor: Separate code into functions and classes in a clean module
-
-🔵 SQL/PostgreSQL (1 hr)
-☐ Project Day: Final SQL report combining JOINs, subqueries, GROUP BY
-☐ Document queries and expected results for reference
+This ensures each day clearly separates **what to learn** and a specific **task** for both Python and SQL. Let me know if you want resource links or example snippets!
